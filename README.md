@@ -21,10 +21,10 @@
 ![Produk Screenshot](/assets/products.jpeg)
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+![Search Screenshot](/assets/search.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+![Empty Screenshot](/assets/empty.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
